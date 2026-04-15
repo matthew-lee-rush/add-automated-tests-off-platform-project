@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - add-auto-tests
   pull_request:
 
 jobs:
